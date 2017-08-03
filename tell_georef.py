@@ -14,9 +14,9 @@ import subprocess
 import re
 
 # directory in which the files are:
-INPUT_FOLDER = "/run/media/madi/TOSHIBA EXT/PUGLIA/Orto_2015_5k"
+INPUT_FOLDER = "add folder here"
 # directory where to write csv files
-OUTPUT_FOLDER = "/home/madi/Projects/parse_metadata_exiftool"
+OUTPUT_FOLDER = "add folder here"
 
 # String to look for in the metadata:
 # Projected CS Type               : WGS84 UTM zone 33N
